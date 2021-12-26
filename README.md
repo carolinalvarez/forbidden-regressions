@@ -1,4 +1,4 @@
-# Computational Statistics final project | Carolina Alvarez G. | Summersemester 2021
+# Computational Statistics final project | University of Bonn | Summersemester 2021 
 
 This project explores the performance of some of the ML toolkit resources in the field of instrumental variables (IV). The first stage of a 2SLS method is a prediction problem, in the sense that one aims to predict the endogenous variable $\hat{x}$ through an exogenous instrument (and some exogenous covariates) in order to plug in fitted values into a second stage to successfully recover the model estimates $\hat{\beta}}$. Here, the prediction ability of ML methods may sound appealing, in the sense that better first stage predictions may help to produce more precise second-stage estimates. However, the extent to which ML algorithms actually outperform OLS first stage prediction and thus second stage estimation is a field with very few academic exploration yet.
 
